@@ -1,0 +1,26 @@
+[
+  {
+    "title": "To-Do List Application",
+    "imageSrc": "projects/todolist.png",
+    "description": "A dynamic To-Do List app for task management, featuring add, edit, complete, and delete functions, plus status filters. Built with HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://courtneyquinn123.github.io/ToDoList",
+    "source": "https://github.com/Courtneyquinn123/ToDoList"
+  },
+  {
+    "title": "Connect Four",
+    "imageSrc": "projects/connect4.png",
+    "description": "Classic Connect Four game reimagined in a web app. Offers two-player mode, win detection, and restart game feature. Developed using HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://courtneyquinn123.github.io/Connect4",
+    "source": "https://github.com/Courtneyquinn123/Connect4"
+  },
+  {
+    "title": "Tic-Tac-Toe",
+    "imageSrc": "projects/tictactoe.png",
+    "description": "Web-based Tic-Tac-Toe game allowing two players to compete, with automatic win and draw detection. Implemented with HTML, CSS, and JavaScript for gameplay.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://courtneyquinn123.github.io/TicTacToe",
+    "source": "https://github.com/Courtneyquinn123/TicTacToe"
+  }
+]

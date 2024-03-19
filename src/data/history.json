@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Naval Warfare Center",
+    "startDate": "June, 2023",
+    "endDate": "August, 2023",
+    "experiences": [
+      "Implemented a SQL database for enhanced analysis.",
+      "Deployed systems for naval mission safety and success."
+    ],
+    "imageSrc": "history/naval-warfare-center.png"
+  },
+  {
+    "role": "Chapter Founder and Leader",
+    "organisation": "GirlsGoCyber",
+    "startDate": "2018",
+    "endDate": "2022",
+    "experiences": [
+      "Grew membership to 40+ active members.",
+      "Earned governor recognition for cybersecurity achievements."
+    ],
+    "imageSrc": "history/girlsgocyber.png"
+  },
+  {
+    "role": "Lead Organizer",
+    "organisation": "HackBI (Hack Bishop Ireton)",
+    "startDate": "2018",
+    "endDate": "2022",
+    "experiences": [
+      "Directed 300+ participant hackathon.",
+      "Managed logistics, budget, and awards with a 30+ team."
+    ],
+    "imageSrc": "history/hackbi.png"
+  }
+]
